@@ -20,8 +20,6 @@ $ cd Hora Do Dia
 
 ## Inicializando a aplicação
 > Inicialize o live server  
- 1.Abra a aba de comandos pressionando F1 e escreva "Live Server: Open With Live Server" para iniciar um servidor
- 2.Ou digite "Live Server: Stop Live Server" para parar o servidor.
 
 ## Comandos ultilizados no git
 
